@@ -1,0 +1,19 @@
+# Build output
+/dist/
+*.exe
+*.test
+*.out
+
+# Local workspace / generated handoffs
+/.rubicon/
+/handoff.json
+
+# Editors & OS noise
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Coverage
+coverage.txt
+coverage.html
